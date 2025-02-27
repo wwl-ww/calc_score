@@ -4,7 +4,7 @@
   - [Features](#features)
   - [Dependencies](#dependencies)
   - [Start](#start)
-  - [other](#other)
+  - [Other](#Other)
 
 ## Introduction! :heartbeat:
 This project is simply for *calculating your score*
@@ -41,7 +41,7 @@ Finally, run the main script. After running the script, the application will sta
 ```bash
 python main.py
 ```
-## other
+## Other
 - The excel file `course.xlsx` is used to store the course information and it is the default data of the program.
 - You can modify `config.json` to modify some details of the program. 
 - `experiment.py` is used for a quick start and also for debugging.
