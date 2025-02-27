@@ -45,6 +45,7 @@ python main.py
 - The excel file `course.xlsx` is used to store the course information and it is the default data of the program.
 - You can modify `config.json` to modify some details of the program. 
 - `experiment.py` is used for a quick start and also for debugging.
+- If you are willing, you can package this project into a software as a contribution, and we will be extremely grateful.
 
 
 
