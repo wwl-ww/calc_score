@@ -1,0 +1,12 @@
+{
+    "precision": {
+        "mean_score": 3, 
+        "gain": 2  
+    },
+    "color": {
+        "score": "#00FFFF99",
+        "gain": "#33FF9999"  
+    },
+    "share": 1,
+    "rotation_x": 45
+}
