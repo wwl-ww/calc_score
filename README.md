@@ -1,4 +1,10 @@
-[TOC]
+# Calculate Your Score!!:innocent:
+
+  - [Introduction! :heartbeat:](#introduction-heartbeat)
+  - [Features](#features)
+  - [Dependencies](#dependencies)
+  - [Start](#start)
+  - [other](#other)
 
 ## Introduction! :heartbeat:
 This project is simply for *calculating your score*
