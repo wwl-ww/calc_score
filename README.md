@@ -1,4 +1,4 @@
-# Calculate Your Score!!:dizzy_face:
+# Calculate Your Score!! :dizzy_face:
 
   - [Introduction! :heartbeat:](#introduction-heartbeat)
   - [Features](#features)
